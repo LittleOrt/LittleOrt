@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web app development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me psalmoluwadhamy@gmail.com
+- 📫 How to reach me sonofphotia@gmail.com
 
 <!---
 LittleOrt/LittleOrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
